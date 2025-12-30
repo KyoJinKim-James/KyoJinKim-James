@@ -2,6 +2,9 @@
 
 비즈니스 현장의 문제를 데이터와 시뮬레이션으로 해결하는 것에 몰입합니다. 
 
+### 📬 Contact
+* Email: [jamess0619@gmail.com], [jamess0619007@gmail.com]
+
 ### 🚀 핵심 역량
 * **Analysis & Modeling:** Python (Pandas), Regression Analysis, ABM Simulation
 * **Domain Knowledge:** Logistics Chain (Shipper-Forwarder-Carrier), Maritime Data
@@ -26,5 +29,5 @@
  - 최우수상(운송차량별 탄소배출량 예측 모델링)
  - 우수상(공차율 최소화 시뮬레이션을 이용한 B2B/B2C 통합 플랫폼 개발)
 
-### 📬 Contact
-* Email: [jamess0619@gmail.com], [jamess0619007@gmail.com]
+### 📚 공부중..
+ - waiting..
