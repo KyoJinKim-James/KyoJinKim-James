@@ -30,14 +30,27 @@
  - 우수상(공차율 최소화 시뮬레이션을 이용한 B2B/B2C 통합 플랫폼 개발)
 
 ### 📚 공부중..
- 1. ADP - 스터디
-   <details>
-    <summary>사진 1</summary>
-    <br>
-    ![사진 1 설명](이미지_주소_1)
-   </details>
-   <details>
-    <summary>사진 2</summary>
-    <br>
-    ![사진 2 설명](이미지_주소_2)
-   </details>
+
+<details>
+<summary><b>ADP - 스터디</b></summary>
+<div style="padding-left: 20px;">
+<br>
+
+  <details>
+  <summary>사진 1</summary>
+  <br>
+  
+  ![사진 1 설명](이미지_주소_1)
+  
+  </details>
+
+  <details>
+  <summary>사진 2</summary>
+  <br>
+  
+  ![사진 2 설명](이미지_주소_2)
+  
+  </details>
+
+</div>
+</details>
