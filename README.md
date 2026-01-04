@@ -37,19 +37,21 @@
 <br>
 
   <details>
-  <summary>사진 1</summary>
+  <summary>로드맵 </summary>
   <br>
-  
-  ![사진 1 설명](이미지_주소_1)
-  
+   <img width="1069" height="561" alt="스크린샷 2026-01-04 오후 4 14 02" src="https://github.com/user-attachments/assets/82f8b8ee-38ea-4f94-b895-b46be5e5ab4c" />
   </details>
 
   <details>
-  <summary>사진 2</summary>
+  <summary>12/27_1주차(09:00) </summary>
   <br>
+   <img width="1401" height="910" alt="스크린샷 2026-01-04 오후 4 14 42" src="https://github.com/user-attachments/assets/a41d79ee-d08d-42f8-b207-470da72f6298" />
+  </details>
   
-  ![사진 2 설명](이미지_주소_2)
-  
+  <details>
+  <summary>01/03_2주차(09:00) </summary>
+  <br>
+   <img width="281" height="328" alt="스크린샷 2026-01-04 오후 4 17 02" src="https://github.com/user-attachments/assets/9fe3aac6-bb30-485c-a9f8-a8687484c1f0" />
   </details>
 
 </div>
