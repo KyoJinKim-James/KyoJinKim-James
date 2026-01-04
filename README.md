@@ -29,10 +29,10 @@
  - 최우수상(운송차량별 탄소배출량 예측 모델링)
  - 우수상(공차율 최소화 시뮬레이션을 이용한 B2B/B2C 통합 플랫폼 개발)
 
-### 📚 공부중..
+### 📚 공부중
 
 <details>
-<summary><b>ADP - 스터디</b></summary>
+<summary><b>1. ADP 스터디</b></summary>
 <div style="padding-left: 20px;">
 <br>
 
